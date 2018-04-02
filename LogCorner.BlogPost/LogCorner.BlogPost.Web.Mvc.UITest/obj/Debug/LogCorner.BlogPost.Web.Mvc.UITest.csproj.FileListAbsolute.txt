@@ -1,0 +1,228 @@
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\bin\Debug\NUnit3.TestAdapter.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\bin\Debug\nunit.engine.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\bin\Debug\nunit.engine.api.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\bin\Debug\Mono.Cecil.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\bin\Debug\Mono.Cecil.Pdb.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\bin\Debug\Mono.Cecil.Mdb.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\bin\Debug\Mono.Cecil.Rocks.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\bin\Debug\LogCorner.BlogPost.Web.Mvc.UITest.dll.config
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\bin\Debug\LogCorner.BlogPost.Web.Mvc.UITest.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\bin\Debug\LogCorner.BlogPost.Web.Mvc.UITest.pdb
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\bin\Debug\Microsoft.Owin.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\bin\Debug\Microsoft.Owin.Security.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\bin\Debug\Newtonsoft.Json.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\bin\Debug\nunit.framework.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\bin\Debug\Owin.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\bin\Debug\TechTalk.SpecFlow.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\bin\Debug\WebDriver.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\bin\Debug\Microsoft.Owin.xml
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\bin\Debug\Microsoft.Owin.Security.xml
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\bin\Debug\Newtonsoft.Json.xml
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\bin\Debug\nunit.framework.xml
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\bin\Debug\WebDriver.xml
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.pdb
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.csprojResolveAssemblyReference.cache
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\NUnit3.TestAdapter.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.engine.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.engine.api.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Mono.Cecil.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Mono.Cecil.Pdb.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Mono.Cecil.Mdb.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Mono.Cecil.Rocks.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\LogCorner.BlogPost.Web.Mvc.UITest.dll.config
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\LogCorner.BlogPost.Web.Mvc.UITest.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\LogCorner.BlogPost.Web.Mvc.UITest.pdb
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Newtonsoft.Json.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.framework.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Owin.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\TechTalk.SpecFlow.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\WebDriver.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.xml
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.xml
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Newtonsoft.Json.xml
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.framework.xml
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\WebDriver.xml
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.csprojResolveAssemblyReference.cache
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.pdb
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.csprojResolveAssemblyReference.cache
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.dll
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.pdb
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.engine.dll
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.engine.api.dll
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Mono.Cecil.dll
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Mono.Cecil.Rocks.dll
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\LogCorner.BlogPost.Web.Mvc.UITest.dll.config
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\LogCorner.BlogPost.Web.Mvc.UITest.dll
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\LogCorner.BlogPost.Web.Mvc.UITest.pdb
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.dll
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.framework.dll
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Owin.dll
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\WebDriver.dll
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.xml
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.framework.xml
+C:\Users\gora.leye\source\repos\Using-Selenium-and-Specflow-on-asp.net\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\WebDriver.xml
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\NUnit3.TestAdapter.dll
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.engine.dll
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.engine.api.dll
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Mono.Cecil.dll
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\LogCorner.BlogPost.Web.Mvc.UITest.dll.config
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\LogCorner.BlogPost.Web.Mvc.UITest.dll
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\LogCorner.BlogPost.Web.Mvc.UITest.pdb
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.dll
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.dll
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Newtonsoft.Json.dll
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.framework.dll
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Owin.dll
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\TechTalk.SpecFlow.dll
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\WebDriver.dll
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.xml
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.xml
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Newtonsoft.Json.xml
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.framework.xml
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\WebDriver.xml
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.dll
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.pdb
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.csproj.CoreCompileInputs.cache
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.csproj.CopyComplete
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\System.ValueTuple.dll
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.framework.pdb
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\System.ValueTuple.xml
+C:\DATA\BLOG\VS2017\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.csprojResolveAssemblyReference.cache
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\NUnit3.TestAdapter.dll
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.engine.dll
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.engine.api.dll
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Mono.Cecil.dll
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\LogCorner.BlogPost.Web.Mvc.UITest.dll.config
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\LogCorner.BlogPost.Web.Mvc.UITest.dll
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\LogCorner.BlogPost.Web.Mvc.UITest.pdb
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.dll
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.dll
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Newtonsoft.Json.dll
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.framework.dll
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Owin.dll
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\System.ValueTuple.dll
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\TechTalk.SpecFlow.dll
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\WebDriver.dll
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.xml
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.xml
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Newtonsoft.Json.xml
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.framework.pdb
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.framework.xml
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\System.ValueTuple.xml
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\WebDriver.xml
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.csprojResolveAssemblyReference.cache
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.dll
+C:\DATA\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.pdb
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.csprojResolveAssemblyReference.cache
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.csproj.CoreCompileInputs.cache
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\NUnit3.TestAdapter.dll
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.engine.dll
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.engine.api.dll
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Mono.Cecil.dll
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\LogCorner.BlogPost.Web.Mvc.UITest.dll.config
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\LogCorner.BlogPost.Web.Mvc.UITest.dll
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\LogCorner.BlogPost.Web.Mvc.UITest.pdb
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.dll
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.dll
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Newtonsoft.Json.dll
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.framework.dll
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Owin.dll
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\System.ValueTuple.dll
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\TechTalk.SpecFlow.dll
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\WebDriver.dll
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.xml
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.xml
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Newtonsoft.Json.xml
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.framework.pdb
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.framework.xml
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\System.ValueTuple.xml
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\WebDriver.xml
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.dll
+C:\TEAMPROJECT\AZURE_DEVCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.pdb
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\NUnit3.TestAdapter.dll
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.engine.dll
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.engine.api.dll
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Mono.Cecil.dll
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\LogCorner.BlogPost.Web.Mvc.UITest.dll.config
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\LogCorner.BlogPost.Web.Mvc.UITest.dll
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\LogCorner.BlogPost.Web.Mvc.UITest.pdb
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.dll
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.dll
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Newtonsoft.Json.dll
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.framework.dll
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Owin.dll
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\System.ValueTuple.dll
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\TechTalk.SpecFlow.dll
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\WebDriver.dll
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.xml
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.xml
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Newtonsoft.Json.xml
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.framework.pdb
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.framework.xml
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\System.ValueTuple.xml
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\WebDriver.xml
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.csproj.CoreCompileInputs.cache
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.csproj.CopyComplete
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.dll
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.pdb
+C:\TEAMPROJECT\COSMOSDBCAMP\BOOTCAMP\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.csprojResolveAssemblyReference.cache
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\NUnit3.TestAdapter.dll
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\NUnit3.TestAdapter.pdb
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.engine.dll
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.engine.api.dll
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Mono.Cecil.dll
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\LogCorner.BlogPost.Web.Mvc.UITest.dll.config
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\LogCorner.BlogPost.Web.Mvc.UITest.dll
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\LogCorner.BlogPost.Web.Mvc.UITest.pdb
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.dll
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.dll
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Newtonsoft.Json.dll
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.framework.dll
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Owin.dll
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\System.ValueTuple.dll
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\TechTalk.SpecFlow.dll
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\WebDriver.dll
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.xml
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.xml
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\Newtonsoft.Json.xml
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.framework.pdb
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\nunit.framework.xml
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\System.ValueTuple.xml
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Debug\WebDriver.xml
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.csprojResolveAssemblyReference.cache
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.csproj.CoreCompileInputs.cache
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.csproj.CopyComplete
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.dll
+C:\TEAMPROJECT\TUTORIAL\Setup-Selenium-Web-Browser-Automation-and-Asp.net-Mvc\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\obj\Debug\LogCorner.BlogPost.Web.Mvc.UITest.pdb

@@ -1,0 +1,35 @@
+﻿$MsTestExePath ='C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\packages\NUnit.ConsoleRunner.3.7.0\tools\nunit3-console.exe'
+$MsTestDLL = 'LogCorner.BlogPost.Web.Mvc.UITest.dll'
+Start-Process $MsTestExePath  $MsTestDLL
+
+
+
+$MsTestExePath ='C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\packages\NUnit.ConsoleRunner.3.7.0\tools\nunit3-console.exe'
+$MsTestDLL = 'LogCorner.BlogPost.Web.Mvc.UITest.dll'
+$process = Start-Process -FilePath $MsTestExePath -ArgumentList $MsTestDLL -NoNewWindow -PassThru -Wait
+$process.ExitCode
+
+
+
+
+
+$MsTestExePath ='C:\Program Files (x86)\IIS Express\iisexpress.exe'
+$argument='/path:"C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc" /port:62301'
+$process = Start-Process -FilePath $MsTestExePath -ArgumentList $argument -NoNewWindow -PassThru 
+$process.ExitCode
+
+$MsTestExePath ='C:\Program Files (x86)\IIS Express\iisexpress.exe'
+$argument='/path:"C:\TeamCity\buildAgent\work\b2464ecc2a05a5ec\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc" /port:62301'
+$process = Start-Process -FilePath $MsTestExePath -ArgumentList $argument -NoNewWindow -PassThru -Wait
+$process.ExitCode
+
+
+$MsTestExePath ='C:\Program Files (x86)\IIS Express\iisexpress.exe'
+$argument='/path:"C:\TeamCity\buildAgent\work\b2464ecc2a05a5ec\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc" /port:62301'
+Invoke-Item  $MsTestExePath  $argument 
+
+
+
+
+
+start C:\"Program Files (x86)"\"IIS Express"\iisexpress.exe /path:"%teamcity.build.checkoutDir%\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc" /port:62301

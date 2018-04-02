@@ -1,0 +1,9 @@
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\bin\Release\LogCorner.BlogPost.Data.dll.config
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\bin\Release\LogCorner.BlogPost.Data.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\bin\Release\LogCorner.BlogPost.Data.pdb
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\bin\Release\EntityFramework.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\bin\Release\EntityFramework.SqlServer.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\bin\Release\EntityFramework.xml
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\bin\Release\EntityFramework.SqlServer.xml
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\obj\Release\LogCorner.BlogPost.Data.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Data\obj\Release\LogCorner.BlogPost.Data.pdb

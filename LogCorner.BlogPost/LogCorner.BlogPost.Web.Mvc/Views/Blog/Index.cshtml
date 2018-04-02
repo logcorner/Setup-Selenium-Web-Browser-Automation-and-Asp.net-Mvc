@@ -1,0 +1,54 @@
+﻿@model IEnumerable<LogCorner.BlogPost.Web.Mvc.Models.BlogViewModel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section id="listBlogTable">
+    <h2>List of blogs</h2>
+
+    <p>
+        @Html.ActionLink("Create New Blog", "Create", null, new { id = "CreateNewBlogLink" })
+    </p>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BlogId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Url)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Description)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Owner)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.ActionLink(item.BlogId.ToString(), "Details", new { id = item.BlogId })
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Url)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Description)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Owner)
+                </td>
+                <td>
+                    @Html.ActionLink("Edit", "Edit", new { id = item.BlogId }) |
+                    @Html.ActionLink("Details", "Details", new { id = item.BlogId }) |
+                    @Html.ActionLink("Delete", "Delete", new { id = item.BlogId })
+                </td>
+            </tr>
+        }
+    </table>
+</section>

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="3" result="Failed" total="3" passed="1" failed="2" inconclusive="0" skipped="0" asserts="2" engine-version="3.7.0.0" clr-version="4.0.30319.42000" start-time="2018-01-21 14:40:50Z" end-time="2018-01-21 14:41:19Z" duration="29.422886">
+  <command-line><![CDATA["C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\packages\NUnit.ConsoleRunner.3.7.0\tools\nunit3-console.exe" LogCorner.BlogPost.Web.Mvc.UITest.dll ]]></command-line>
+  <test-suite type="Assembly" id="0-1005" name="LogCorner.BlogPost.Web.Mvc.UITest.dll" fullname="C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Release\LogCorner.BlogPost.Web.Mvc.UITest.dll" runstate="Runnable" testcasecount="3" result="Failed" site="Child" start-time="2018-01-21 14:40:51Z" end-time="2018-01-21 14:41:19Z" duration="27.960336" total="3" passed="1" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="2">
+    <environment framework-version="3.9.0.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.16299.0" platform="Win32NT" cwd="C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Release" machine-name="TOCANE-LATITUDE" user="TOCANE" user-domain="TOCANE-LATITUDE" culture="en-US" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\bin\Release" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.6.2" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="NumberOfTestWorkers" value="4" />
+    </settings>
+    <properties>
+      <property name="_PID" value="20608" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <failure>
+      <message><![CDATA[One or more child tests had errors]]></message>
+    </failure>
+    <test-suite type="TestSuite" id="0-1006" name="LogCorner" fullname="LogCorner" runstate="Runnable" testcasecount="3" result="Failed" site="Child" start-time="2018-01-21 14:40:51Z" end-time="2018-01-21 14:41:19Z" duration="27.930812" total="3" passed="1" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="2">
+      <failure>
+        <message><![CDATA[One or more child tests had errors]]></message>
+      </failure>
+      <test-suite type="TestSuite" id="0-1007" name="BlogPost" fullname="LogCorner.BlogPost" runstate="Runnable" testcasecount="3" result="Failed" site="Child" start-time="2018-01-21 14:40:51Z" end-time="2018-01-21 14:41:19Z" duration="27.899217" total="3" passed="1" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="2">
+        <failure>
+          <message><![CDATA[One or more child tests had errors]]></message>
+        </failure>
+        <test-suite type="TestSuite" id="0-1008" name="Web" fullname="LogCorner.BlogPost.Web" runstate="Runnable" testcasecount="3" result="Failed" site="Child" start-time="2018-01-21 14:40:51Z" end-time="2018-01-21 14:41:19Z" duration="27.881293" total="3" passed="1" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="2">
+          <failure>
+            <message><![CDATA[One or more child tests had errors]]></message>
+          </failure>
+          <test-suite type="TestSuite" id="0-1009" name="Mvc" fullname="LogCorner.BlogPost.Web.Mvc" runstate="Runnable" testcasecount="3" result="Failed" site="Child" start-time="2018-01-21 14:40:51Z" end-time="2018-01-21 14:41:19Z" duration="27.875174" total="3" passed="1" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="2">
+            <failure>
+              <message><![CDATA[One or more child tests had errors]]></message>
+            </failure>
+            <test-suite type="TestSuite" id="0-1010" name="UITest" fullname="LogCorner.BlogPost.Web.Mvc.UITest" runstate="Runnable" testcasecount="3" result="Failed" site="Child" start-time="2018-01-21 14:40:51Z" end-time="2018-01-21 14:41:19Z" duration="27.872545" total="3" passed="1" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="2">
+              <failure>
+                <message><![CDATA[One or more child tests had errors]]></message>
+              </failure>
+              <test-suite type="TestSuite" id="0-1011" name="Feature" fullname="LogCorner.BlogPost.Web.Mvc.UITest.Feature" runstate="Runnable" testcasecount="3" result="Failed" site="Child" start-time="2018-01-21 14:40:51Z" end-time="2018-01-21 14:41:19Z" duration="27.865090" total="3" passed="1" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="2">
+                <failure>
+                  <message><![CDATA[One or more child tests had errors]]></message>
+                </failure>
+                <test-suite type="TestFixture" id="0-1000" name="CreateBlogFeature" fullname="LogCorner.BlogPost.Web.Mvc.UITest.Feature.CreateBlogFeature" classname="LogCorner.BlogPost.Web.Mvc.UITest.Feature.CreateBlogFeature" runstate="Runnable" testcasecount="2" result="Failed" site="Child" start-time="2018-01-21 14:40:51Z" end-time="2018-01-21 14:41:19Z" duration="27.455098" total="2" passed="0" failed="2" warnings="0" inconclusive="0" skipped="0" asserts="1">
+                  <properties>
+                    <property name="Description" value="CreateBlog" />
+                  </properties>
+                  <failure>
+                    <message><![CDATA[One or more child tests had errors]]></message>
+                  </failure>
+                  <output><![CDATA[-> Using app.config
+]]></output>
+                  <test-case id="0-1002" name="WhenAuthenticatedUserAttemptToCreateABlogPostItMustBeRedirectedOnCreateBlogPageXxx" fullname="LogCorner.BlogPost.Web.Mvc.UITest.Feature.CreateBlogFeature.WhenAuthenticatedUserAttemptToCreateABlogPostItMustBeRedirectedOnCreateBlogPageXxx" methodname="WhenAuthenticatedUserAttemptToCreateABlogPostItMustBeRedirectedOnCreateBlogPageXxx" classname="LogCorner.BlogPost.Web.Mvc.UITest.Feature.CreateBlogFeature" runstate="Runnable" seed="342094973" result="Failed" label="Error" start-time="2018-01-21 14:40:58Z" end-time="2018-01-21 14:41:09Z" duration="10.875309" asserts="0">
+                    <properties>
+                      <property name="Description" value="When Authenticated User attempt to create a blogPost , it must be redirected on create blog page xxx" />
+                    </properties>
+                    <failure>
+                      <message><![CDATA[OpenQA.Selenium.NoSuchElementException : no such element: Unable to locate element: {"method":"link text","selector":"Log off"}
+  (Session info: chrome=63.0.3239.132)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64)]]></message>
+                      <stack-trace><![CDATA[   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebElement.FindElement(String mechanism, String value)
+   at LogCorner.BlogPost.Web.Mvc.UITest.Page.MenuComponent.ClickOnLogOffLink() in C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\Components\MenuComponent.cs:line 41
+   at LogCorner.BlogPost.Web.Mvc.UITest.Page.MenuComponent.ClickOnLoginLink() in C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\Components\MenuComponent.cs:line 34
+   at LogCorner.BlogPost.Web.Mvc.UITest.Page.LoginView.AuthenticatedUser(String email, String password) in C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\Views\LoginView.cs:line 30
+   at lambda_method(Closure , IContextManager , String , String )
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()]]></stack-trace>
+                    </failure>
+                    <output><![CDATA[Given I m an authenicated user leyegora@yopmail.com Gophette1#
+-> error: no such element: Unable to locate element: {"method":"link text","selector":"Log off"}
+  (Session info: chrome=63.0.3239.132)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64)
+When I naviagte to blog list page
+-> skipped because of previous errors
+And I click on Create New Blog link
+-> skipped because of previous errors
+Then I must be redirected on CreateBlogPage
+-> skipped because of previous errors
+When I enter url https://logcorner2.com and description Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s and click on create button
+-> skipped because of previous errors
+Then I must be redirected on list of blog page
+-> skipped because of previous errors
+And my newly created blog will be displayed on that page
+-> skipped because of previous errors
+]]></output>
+                  </test-case>
+                  <test-case id="0-1001" name="WhenNoAuthenticatedUserAttemptToCreateABlogPostItMustBeRedirectedOnLoginPage" fullname="LogCorner.BlogPost.Web.Mvc.UITest.Feature.CreateBlogFeature.WhenNoAuthenticatedUserAttemptToCreateABlogPostItMustBeRedirectedOnLoginPage" methodname="WhenNoAuthenticatedUserAttemptToCreateABlogPostItMustBeRedirectedOnLoginPage" classname="LogCorner.BlogPost.Web.Mvc.UITest.Feature.CreateBlogFeature" runstate="Runnable" seed="1989960726" result="Failed" label="Error" start-time="2018-01-21 14:41:09Z" end-time="2018-01-21 14:41:19Z" duration="9.609989" asserts="1">
+                    <properties>
+                      <property name="Description" value="When no Authenticated User attempt to create a blogPost , it must be redirected on login page" />
+                    </properties>
+                    <failure>
+                      <message><![CDATA[OpenQA.Selenium.NoSuchElementException : no such element: Unable to locate element: {"method":"id","selector":"createBlogSection"}
+  (Session info: chrome=63.0.3239.132)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64)]]></message>
+                      <stack-trace><![CDATA[   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at LogCorner.BlogPost.Web.Mvc.UITest.Page.BlogCreateComponent.IsAt() in C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\Components\BlogCreateComponent.cs:line 26
+   at LogCorner.BlogPost.Web.Mvc.UITest.Page.BlogCreateView.IsAt() in C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Web.Mvc.UITest\Views\BlogCreateView.cs:line 17
+   at lambda_method(Closure , IContextManager )
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan& duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()]]></stack-trace>
+                    </failure>
+                    <output><![CDATA[Given I m an anonymous user
+-> done: CreateBlogSteps.GivenIMAnAnonymousUser() (0.6s)
+When I naviagte to blog list page
+-> done: CreateBlogSteps.WhenINaviagteToBlogListPage() (5.2s)
+And I click on Create New Blog link
+-> done: CreateBlogSteps.WhenIClickOnCreateNewBlogLink() (2.0s)
+Then I must be redirected on login page
+-> done: CreateBlogSteps.ThenIMustBeRedirectedOnLoginPage() (0.1s)
+When I logged in leyegora@yopmail.com Gophette1#
+-> done: CreateBlogSteps.WhenILoggedIn("leyegora@yopmail.com", "Gophette1#") (1.5s)
+Then I must be redirected on CreateBlogPage
+-> error: no such element: Unable to locate element: {"method":"id","selector":"createBlogSection"}
+  (Session info: chrome=63.0.3239.132)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64)
+When I enter url https://logcorner2.com and description Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s and click on create button
+-> skipped because of previous errors
+Then I must be redirected on list of blog page
+-> skipped because of previous errors
+And my newly created blog will be displayed on that page
+-> skipped because of previous errors
+]]></output>
+                  </test-case>
+                </test-suite>
+                <test-suite type="TestFixture" id="0-1003" name="HomeViewFeature" fullname="LogCorner.BlogPost.Web.Mvc.UITest.Feature.HomeViewFeature" classname="LogCorner.BlogPost.Web.Mvc.UITest.Feature.HomeViewFeature" runstate="Runnable" testcasecount="1" result="Passed" start-time="2018-01-21 14:41:19Z" end-time="2018-01-21 14:41:19Z" duration="0.370460" total="1" passed="1" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="1">
+                  <properties>
+                    <property name="Description" value="HomeView" />
+                  </properties>
+                  <test-case id="0-1004" name="ApplicationLoadedSuccessfullyxxx" fullname="LogCorner.BlogPost.Web.Mvc.UITest.Feature.HomeViewFeature.ApplicationLoadedSuccessfullyxxx" methodname="ApplicationLoadedSuccessfullyxxx" classname="LogCorner.BlogPost.Web.Mvc.UITest.Feature.HomeViewFeature" runstate="Runnable" seed="1214940273" result="Passed" start-time="2018-01-21 14:41:19Z" end-time="2018-01-21 14:41:19Z" duration="0.367807" asserts="1">
+                    <properties>
+                      <property name="Description" value="Application loaded successfullyxxx" />
+                    </properties>
+                    <output><![CDATA[Given I am on the BlogPost application home page
+-> done: HomeViewSteps.GivenIAmOnTheBlogPostApplicationHomePage() (0.3s)
+Then Verify that the page title is Using Selenium and Specflow
+-> done: HomeViewSteps.ThenVerifyThePageTitle("Using Selenium an...") (0.1s)
+]]></output>
+                  </test-case>
+                </test-suite>
+              </test-suite>
+            </test-suite>
+          </test-suite>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

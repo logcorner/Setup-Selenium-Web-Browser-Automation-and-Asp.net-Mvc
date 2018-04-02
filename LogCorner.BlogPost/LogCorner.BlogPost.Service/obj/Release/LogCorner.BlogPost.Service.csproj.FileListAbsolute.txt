@@ -1,0 +1,12 @@
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service\bin\Release\LogCorner.BlogPost.Service.dll.config
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service\bin\Release\LogCorner.BlogPost.Service.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service\bin\Release\LogCorner.BlogPost.Service.pdb
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service\bin\Release\EntityFramework.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service\bin\Release\EntityFramework.SqlServer.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service\bin\Release\LogCorner.BlogPost.Data.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service\bin\Release\LogCorner.BlogPost.Data.pdb
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service\bin\Release\EntityFramework.xml
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service\bin\Release\EntityFramework.SqlServer.xml
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service\obj\Release\LogCorner.BlogPost.Service.csprojResolveAssemblyReference.cache
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service\obj\Release\LogCorner.BlogPost.Service.dll
+C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service\obj\Release\LogCorner.BlogPost.Service.pdb

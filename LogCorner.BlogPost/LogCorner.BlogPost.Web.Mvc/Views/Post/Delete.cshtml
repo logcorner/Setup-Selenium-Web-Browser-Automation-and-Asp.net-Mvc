@@ -1,0 +1,59 @@
+﻿@model LogCorner.BlogPost.Web.Mvc.Models.PostViewModel
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>PostViewModel</h4>
+    <hr />
+    @Html.HiddenFor(m => m.PostId)
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.PostId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PostId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Title)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Content)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Content)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.BlogId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.BlogId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Url)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Url)
+        </dd>
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

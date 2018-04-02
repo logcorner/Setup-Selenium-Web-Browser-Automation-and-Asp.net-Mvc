@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f9c94239-8eb6-4ef2-9901-e353a59a17bd" name="TOCANE@TOCANE-LATITUDE 2018-01-20 23:30:09" runUser="TOCANE-LATITUDE\TOCANE" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="e561a6dd-50d9-405f-9fb7-9d82b5eed05a">
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+    <Deployment runDeploymentRoot="TOCANE_TOCANE-LATITUDE 2018-01-20 23_30_09" />
+    <Properties />
+  </TestSettings>
+  <Times creation="2018-01-20T23:30:09.5080500+01:00" queuing="2018-01-20T23:30:10.5471507+01:00" start="2018-01-20T23:30:10.7971486+01:00" finish="2018-01-20T23:30:22.7886329+01:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="3" executed="3" error="0" failed="3" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>-&gt; Using app.config
+</StdOut>
+    </Output>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ApplicationLoadedSuccessfully" storage="logcorner.blogpost.web.mvc.uitest.dll" id="5896d0c1-8c59-3f79-6bfc-f82ed970f0ce">
+      <Description>Application loaded successfully</Description>
+      <Execution id="43eb195c-8282-45af-85de-53f1e7139cda" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>HomeView</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/TEAMPROJECT/GIT/selenim specflow/blog/LogCorner.BlogPost/LogCorner.BlogPost.Service.UITest/bin/Debug/LogCorner.BlogPost.Web.Mvc.UITest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LogCorner.BlogPost.Web.Mvc.UITest.Feature.HomeViewFeature, LogCorner.BlogPost.Web.Mvc.UITest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ApplicationLoadedSuccessfully" />
+    </UnitTest>
+    <UnitTest name="WhenNoAuthenticatedUserAttemptToCreateABlogPostItMustBeRedirectedOnLoginPage" storage="logcorner.blogpost.web.mvc.uitest.dll" id="96a8ab14-14f9-efff-057a-9f0729771b14">
+      <Description>When no Authenticated User attempt to create a blogPost , it must be redirected on login page</Description>
+      <Execution id="bd11ac98-7048-4bcb-8ec3-03a202b0b8a7" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>CreateBlog</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/TEAMPROJECT/GIT/selenim specflow/blog/LogCorner.BlogPost/LogCorner.BlogPost.Service.UITest/bin/Debug/LogCorner.BlogPost.Web.Mvc.UITest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LogCorner.BlogPost.Web.Mvc.UITest.Feature.CreateBlogFeature, LogCorner.BlogPost.Web.Mvc.UITest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="WhenNoAuthenticatedUserAttemptToCreateABlogPostItMustBeRedirectedOnLoginPage" />
+    </UnitTest>
+    <UnitTest name="WhenAuthenticatedUserAttemptToCreateABlogPostItMustBeRedirectedOnCreateBlogPage" storage="logcorner.blogpost.web.mvc.uitest.dll" id="06eeadb2-0184-61b6-b090-aa202f8e89df">
+      <Description>When Authenticated User attempt to create a blogPost , it must be redirected on create blog page</Description>
+      <Execution id="28e153f7-0715-4b14-a267-1d971ebbecb7" />
+      <Properties>
+        <Property>
+          <Key>FeatureTitle</Key>
+          <Value>CreateBlog</Value>
+        </Property>
+      </Properties>
+      <TestMethod codeBase="C:/TEAMPROJECT/GIT/selenim specflow/blog/LogCorner.BlogPost/LogCorner.BlogPost.Service.UITest/bin/Debug/LogCorner.BlogPost.Web.Mvc.UITest.dll" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=14.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="LogCorner.BlogPost.Web.Mvc.UITest.Feature.CreateBlogFeature, LogCorner.BlogPost.Web.Mvc.UITest, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="WhenAuthenticatedUserAttemptToCreateABlogPostItMustBeRedirectedOnCreateBlogPage" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="06eeadb2-0184-61b6-b090-aa202f8e89df" executionId="28e153f7-0715-4b14-a267-1d971ebbecb7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="96a8ab14-14f9-efff-057a-9f0729771b14" executionId="bd11ac98-7048-4bcb-8ec3-03a202b0b8a7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="5896d0c1-8c59-3f79-6bfc-f82ed970f0ce" executionId="43eb195c-8282-45af-85de-53f1e7139cda" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="28e153f7-0715-4b14-a267-1d971ebbecb7" testId="06eeadb2-0184-61b6-b090-aa202f8e89df" testName="WhenAuthenticatedUserAttemptToCreateABlogPostItMustBeRedirectedOnCreateBlogPage" computerName="TOCANE-LATITUDE" duration="00:00:02.7299705" startTime="2018-01-20T23:30:10.8866488+01:00" endTime="2018-01-20T23:30:20.2271361+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="28e153f7-0715-4b14-a267-1d971ebbecb7">
+      <Output>
+        <StdOut>Given I m an authenicated user leyegora@yopmail.com Gophette1#
+-&gt; error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='navbar navbar-inverse navbar-fixed-top']"}
+  (Session info: chrome=63.0.3239.132)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64)
+When I naviagte to blog list page
+-&gt; skipped because of previous errors
+And I click on Create New Blog link
+-&gt; skipped because of previous errors
+Then I must be redirected on CreateBlogPage
+-&gt; skipped because of previous errors
+When I enter url https://logcorner2.com and description Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s and click on create button
+-&gt; skipped because of previous errors
+Then I must be redirected on list of blog page
+-&gt; skipped because of previous errors
+And my newly created blog will be displayed on that page
+-&gt; skipped because of previous errors</StdOut>
+        <ErrorInfo>
+          <Message>Test method LogCorner.BlogPost.Web.Mvc.UITest.Feature.CreateBlogFeature.WhenAuthenticatedUserAttemptToCreateABlogPostItMustBeRedirectedOnCreateBlogPage threw exception: 
+OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='navbar navbar-inverse navbar-fixed-top']"}
+  (Session info: chrome=63.0.3239.132)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64)</Message>
+          <StackTrace>    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.&lt;&gt;c__DisplayClass19_0.&lt;XPath&gt;b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at LogCorner.BlogPost.Web.Mvc.UITest.Page.MenuComponent.get__rootMenu() in C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\Components\MenuComponent.cs:line 15
+   at LogCorner.BlogPost.Web.Mvc.UITest.Page.MenuComponent.ClickOnLogOffLink() in C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\Components\MenuComponent.cs:line 41
+   at LogCorner.BlogPost.Web.Mvc.UITest.Page.MenuComponent.ClickOnLoginLink() in C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\Components\MenuComponent.cs:line 34
+   at LogCorner.BlogPost.Web.Mvc.UITest.Page.LoginView.AuthenticatedUser(String email, String password) in C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\Views\LoginView.cs:line 29
+   at LogCorner.BlogPost.Web.Mvc.UITest.Steps.CreateBlogSteps.GivenIMAnAuthenicatedUser(String email, String password) in C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\Steps\CreateBlogSteps.cs:line 34
+   at lambda_method(Closure , IContextManager , String , String )
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at LogCorner.BlogPost.Web.Mvc.UITest.Feature.CreateBlogFeature.ScenarioCleanup()
+   at LogCorner.BlogPost.Web.Mvc.UITest.Feature.CreateBlogFeature.WhenAuthenticatedUserAttemptToCreateABlogPostItMustBeRedirectedOnCreateBlogPage() in C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\Feature\CreateBlog.feature:line 21
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="bd11ac98-7048-4bcb-8ec3-03a202b0b8a7" testId="96a8ab14-14f9-efff-057a-9f0729771b14" testName="WhenNoAuthenticatedUserAttemptToCreateABlogPostItMustBeRedirectedOnLoginPage" computerName="TOCANE-LATITUDE" duration="00:00:01.7010249" startTime="2018-01-20T23:30:20.2421379+01:00" endTime="2018-01-20T23:30:21.9487629+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="bd11ac98-7048-4bcb-8ec3-03a202b0b8a7">
+      <Output>
+        <StdOut>Given I m an anonymous user
+-&gt; error: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='navbar navbar-inverse navbar-fixed-top']"}
+  (Session info: chrome=63.0.3239.132)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64)
+When I naviagte to blog list page
+-&gt; skipped because of previous errors
+And I click on Create New Blog link
+-&gt; skipped because of previous errors
+Then I must be redirected on login page
+-&gt; skipped because of previous errors
+When I logged in leyegora@yopmail.com Gophette1#
+-&gt; skipped because of previous errors
+Then I must be redirected on CreateBlogPage
+-&gt; skipped because of previous errors
+When I enter url https://logcorner2.com and description Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s and click on create button
+-&gt; skipped because of previous errors
+Then I must be redirected on list of blog page
+-&gt; skipped because of previous errors
+And my newly created blog will be displayed on that page
+-&gt; skipped because of previous errors</StdOut>
+        <ErrorInfo>
+          <Message>Test method LogCorner.BlogPost.Web.Mvc.UITest.Feature.CreateBlogFeature.WhenNoAuthenticatedUserAttemptToCreateABlogPostItMustBeRedirectedOnLoginPage threw exception: 
+OpenQA.Selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='navbar navbar-inverse navbar-fixed-top']"}
+  (Session info: chrome=63.0.3239.132)
+  (Driver info: chromedriver=2.33.506120 (e3e53437346286c0bc2d2dc9aa4915ba81d9023f),platform=Windows NT 10.0.16299 x86_64)</Message>
+          <StackTrace>    at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByXPath(String xpath)
+   at OpenQA.Selenium.By.&lt;&gt;c__DisplayClass19_0.&lt;XPath&gt;b__0(ISearchContext context)
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)
+   at LogCorner.BlogPost.Web.Mvc.UITest.Page.MenuComponent.get__rootMenu() in C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\Components\MenuComponent.cs:line 15
+   at LogCorner.BlogPost.Web.Mvc.UITest.Page.MenuComponent.IsNotAuthenticatedUser(String email) in C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\Components\MenuComponent.cs:line 26
+   at LogCorner.BlogPost.Web.Mvc.UITest.Page.HomeView.IsNotAuthenticatedUser(String email) in C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\Views\HomeView.cs:line 29
+   at LogCorner.BlogPost.Web.Mvc.UITest.Steps.CreateBlogSteps.GivenIMAnAnonymousUser() in C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\Steps\CreateBlogSteps.cs:line 27
+   at lambda_method(Closure , IContextManager )
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at LogCorner.BlogPost.Web.Mvc.UITest.Feature.CreateBlogFeature.ScenarioCleanup()
+   at LogCorner.BlogPost.Web.Mvc.UITest.Feature.CreateBlogFeature.WhenNoAuthenticatedUserAttemptToCreateABlogPostItMustBeRedirectedOnLoginPage() in C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\Feature\CreateBlog.feature:line 11
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="43eb195c-8282-45af-85de-53f1e7139cda" testId="5896d0c1-8c59-3f79-6bfc-f82ed970f0ce" testName="ApplicationLoadedSuccessfully" computerName="TOCANE-LATITUDE" duration="00:00:00.4413561" startTime="2018-01-20T23:30:21.9567633+01:00" endTime="2018-01-20T23:30:22.4047147+01:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="43eb195c-8282-45af-85de-53f1e7139cda">
+      <Output>
+        <StdOut>Given I am on the BlogPost application home page
+-&gt; done: HomeViewSteps.GivenIAmOnTheBlogPostApplicationHomePage() (0.4s)
+Then Verify that the page title is Using Selenium and Specflow
+-&gt; error: Assert.IsTrue failed. The page title is not correct</StdOut>
+        <ErrorInfo>
+          <Message>Assert.IsTrue failed. The page title is not correct</Message>
+          <StackTrace>   at LogCorner.BlogPost.Web.Mvc.UITest.Steps.HomeViewSteps.ThenVerifyThePageTitle(String title) in C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\Steps\HomeViewSteps.cs:line 28
+   at lambda_method(Closure , IContextManager , String )
+   at TechTalk.SpecFlow.Bindings.BindingInvoker.InvokeBinding(IBinding binding, IContextManager contextManager, Object[] arguments, ITestTracer testTracer, TimeSpan&amp; duration)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStepMatch(BindingMatch match, Object[] arguments)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.ExecuteStep(IContextManager contextManager, StepInstance stepInstance)
+   at TechTalk.SpecFlow.Infrastructure.TestExecutionEngine.OnAfterLastStep()
+   at TechTalk.SpecFlow.TestRunner.CollectScenarioErrors()
+   at LogCorner.BlogPost.Web.Mvc.UITest.Feature.HomeViewFeature.ScenarioCleanup()
+   at LogCorner.BlogPost.Web.Mvc.UITest.Feature.HomeViewFeature.ApplicationLoadedSuccessfully() in C:\TEAMPROJECT\GIT\selenim specflow\blog\LogCorner.BlogPost\LogCorner.BlogPost.Service.UITest\Feature\HomeView.feature:line 4
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>
